@@ -1,2 +1,2 @@
-# SemaphoreProject-CS-340 --- OperatingSystems
+# SemaphoreProject-CS340 --- OperatingSystems
 Thread synchronization using semaphores 
